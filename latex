@@ -1,0 +1,19 @@
+\documentclass{article}
+\usepackage{graphicx}
+\begin{document}
+
+\title{intro to \LaTeX{}}
+\author{jai}
+\maketitle
+\begin{abstract}
+this is the doc for project info management db.
+\end{abstract}
+
+\section{Introduction}
+this is the blueprint for pim db.
+
+\subsection{js coding design}
+\section{Conclusion}
+LATEX!!!
+
+\end{document}
